@@ -28,6 +28,7 @@ class MyBook : Book{
             cout << "Title: " <<Book::title << "\nAuthor: " << Book::author << "\nPrice: " << price << endl;
         }
     
+    
 };
 
 

@@ -1,3 +1,5 @@
+// Day 10 of Hackerrank
+
 #include <bits/stdc++.h>
 
 using namespace std;

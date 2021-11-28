@@ -7,7 +7,8 @@ using namespace std;
 int factorial(int total, int num) {
     if (num <= 1) {
     return 1;
-} else {
+} 
+    else {
     return num*factorial(num, num - 1);
 }
 }

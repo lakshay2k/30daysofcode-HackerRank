@@ -1,7 +1,6 @@
 // Day 10 of Hackerrank
 
 #include <bits/stdc++.h>
-
 using namespace std;
 
 // Complete the factorial function below.

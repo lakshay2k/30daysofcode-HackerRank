@@ -25,6 +25,7 @@ int main()
     int result = factorial(n,n);
 
     fout << result << "\n";
+    
     fout.close();
 
     return 0;
